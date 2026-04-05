@@ -1,226 +1,193 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f62fe,50:6929c4,100:0f62fe&amp;height=200&amp;section=header&amp;text=Aqib%20Ahmed&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20Machine%20Learning%20Engineer&amp;descAlignY=60&amp;descSize=20&amp;animation=fadeIn" />
+<!-- Animated wave header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aqib%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=55&descSize=18"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=0F62FE&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+intelligent+systems+that+matter;Computer+Vision+%7C+NLP+%7C+LLMs+%7C+RAG;96%25%2B+model+accuracy+in+production;HEC+GenAI+Hackathon+2025+Recognized;From+Sindh%2C+Pakistan+to+the+world" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aqib%20Ahmed-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/aqib-ahmed-6505042a8)
-[![GitHub](https://img.shields.io/badge/GitHub-Aqibahmed12-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Aqibahmed12)
-[![Email](https://img.shields.io/badge/Email-ahmedaqib152%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:ahmedaqib152@gmail.com)
-[![NexaBuild](https://img.shields.io/badge/NexaBuild-Live%20Demo-10B981?style=for-the-badge)](https://nexabuild.streamlit.app/)
+<!-- Animated typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=🤖+AI+%26+Machine+Learning+Developer;👁️+Computer+Vision+Engineer;🌐+AI-Powered+Web+App+Builder;📊+Data+Science+%26+NLP+Enthusiast;♟️+Chess+AI+Creator+%7C+Always+Learning" alt="Typing SVG" />
 
 <br/>
+
+<!-- Badges row -->
+<a href="https://github.com/Aqibahmed12">
+  <img src="https://komarev.com/ghpvc/?username=Aqibahmed12&label=👁️+Profile+Views&color=0891b2&style=flat-square" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Aqibahmed12?label=👥+Followers&style=flat-square&color=0891b2" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/Aqibahmed12?label=⭐+Total+Stars&style=flat-square&color=f59e0b&affiliations=OWNER" />
 
 </div>
 
 ---
 
-## About Me
+<img align="right" width="340" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+
+## 👨‍💻 About Me
 
 ```python
 class AqibAhmed:
-    def __init__(self):
-        self.role       = "AI & Machine Learning Engineer"
-        self.education  = "B.S. Artificial Intelligence @ Aror University (2027)"
-        self.location   = "Ghotki, Sindh, Pakistan"
-        self.cgpa       = "3.25 / 4.00"
-        self.focus      = ["Computer Vision", "NLP", "LLMs", "RAG Pipelines", "GenAI"]
-        self.achieved   = ["96%+ model accuracy in production",
-                           "HEC GenAI Hackathon 2025 - recognized among 50+ teams",
-                           "Top Performer - NCEAC-HEC GenAI Training"]
-        self.currently  = "Researching Crop Yield Prediction for Smart Agriculture"
-        self.building   = "Lunar Terrain Hazard Detection for autonomous rover navigation"
-
-    def __str__(self):
-        return "Turning data into decisions, and models into impact."
+    name        = "Aqib Ahmed"
+    location    = "Sindh, Pakistan 🇵🇰"
+    university  = "Aror University of Art, Architecture,"
+                  "Design & Heritage"
+    focus       = ["AI / ML", "Computer Vision",
+                   "NLP", "Generative AI"]
+    building    = "AI tools that solve real problems"
+    learning    = ["Deep Learning", "LLMs", "MLOps"]
+    fun_fact    = "My Chess AI beats me every time 😅"
+    open_to     = "Internships & Collaborations"
 ```
 
+<br/>
+
+- 🔭 Currently building **AI-powered web apps & CV systems**
+- 🌱 Exploring **Large Language Models & Generative AI**
+- 💼 Open to **internship opportunities & collaborations**
+- 🏆 13+ Projects across AI, CV, NLP & Game Dev
+- 📍 Based in **Pakistan** • Student at **Aror University**
+- ⚡ Fun fact: I built an AI that generates full websites from a single sentence!
+
+<br clear="right"/>
+
 ---
 
-## Highlights
+## 🌐 Connect With Me
 
 <div align="center">
 
-| Achievement | Details |
-|---|---|
-| **HEC GenAI Hackathon 2025** | Recognized among 50+ teams with NexaBuild |
-| **Top Performer** | NCEAC-HEC GenAI Training under PakAngels and iCodeGuru |
-| **96%+ Accuracy** | Face recognition system for 30-100 student classrooms |
-| **94% Accuracy** | Traffic sign detection via MobileNetV2 (43 classes) |
-| **89%+ Accuracy** | Music genre classification across 10,000+ audio samples |
-| **ISSSP 2026** | AI-powered lunar rover hazard detection (U-Net) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aqibahmed12)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
 
 </div>
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### NexaBuild - AI Website Builder (HEC GenAI Hackathon 2025)
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/Repo-NexaBuild-181717?style=flat-square&amp;logo=github)](https://github.com/Aqibahmed12/NexaBuild)
-[![Live](https://img.shields.io/badge/Live-nexabuild.streamlit.app-10B981?style=flat-square)](https://nexabuild.streamlit.app/)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%202.5-8E75B2?style=flat-square&amp;logo=google&amp;logoColor=white)
+### 🤖 AI / Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![face_recognition](https://img.shields.io/badge/face__recognition-dlib-00D9FF?style=for-the-badge&logo=python&logoColor=white)
 
-> End-to-end GenAI platform converting natural language prompts into fully functional HTML/CSS/JS websites in **under 3 minutes**. Multi-turn editing, real-time preview and instant hosting. Recognized at HEC GenAI Hackathon 2025 among 50+ teams.
+### 🌐 Web & Frameworks
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6FEB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-### Face Detection Attendance System
-
-[![Repo](https://img.shields.io/badge/Repo-Face--Detection--Attendance-181717?style=flat-square&amp;logo=github)](https://github.com/Aqibahmed12/Face-Detection-Attendance-System)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white)
-![dlib](https://img.shields.io/badge/dlib-face__recognition-6929c4?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6FEB?style=flat-square)
-
-> Production-grade real-time attendance system using **face_recognition (dlib)** for accurate face matching, **LBP anti-spoofing** to block printed photos and screens, and a modern **CustomTkinter dark UI**. Features auto attendance marking, live dashboard, photo-based student registration, smart record search, and one-click **Excel/CSV export** stored locally in SQLite.
-
----
-
-### Lunar Terrain Hazard Detection (ISSSP 2026 - Ongoing)
-
-[![Repo](https://img.shields.io/badge/Repo-Lunar--Hazard-181717?style=flat-square&amp;logo=github)](https://github.com/Aqibahmed12/AI-driven-crop-yield-prediction)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white)
-
-> Semantic segmentation model (**U-Net + ResNet-50**) on NASA lunar datasets classifying safe, rocky, and crater zones for autonomous rover path-planning. Competing at ISSSP 2026.
-
----
-
-### AI Chess Engine
-
-[![Repo](https://img.shields.io/badge/Repo-Chess--Master-181717?style=flat-square&amp;logo=github)](https://github.com/Aqibahmed12/Chess-Master)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
-
-> Full-featured chess app with AI opponent powered by **Minimax + Alpha-Beta Pruning**. Responsive GUI, sound effects, move history, board flip, and timers.
+### 🗄️ Databases & DevTools
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 </div>
 
 ---
 
-<details>
-<summary><b>More Projects (click to expand)</b></summary>
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🏷️ Project | 📝 Description | 🔧 Tech Stack |
+|:---:|:---|:---:|
+| [**👁️ FaceAttend Pro**](https://github.com/Aqibahmed12/Face-Detection-Attendance-System) | Face recognition attendance with **anti-spoofing**, live dashboard & Excel export | `dlib` `OpenCV` `CustomTkinter` `SQLite` |
+| [**🌐 NexaBuild**](https://github.com/Aqibahmed12/NexaBuild) | AI generates a **complete website** from a single text prompt with live preview | `Python` `Generative AI` `HTML/CSS/JS` |
+| [**🤖 Website-Builder-AI**](https://github.com/Aqibahmed12/Website-Builder-Ai) | Generative AI website builder with **downloadable source code** | `Python` `AI` `Flask` |
+| [**📝 ThesisMate**](https://github.com/Aqibahmed12/ThesisMate) | AI-powered **thesis writing & research assistant** | `Python` `NLP` `Generative AI` |
+| [**⚙️ AutoML for SMEs**](https://github.com/Aqibahmed12/AutoML-for-small-businesses) | **No-code AutoML** pipeline for small businesses | `Scikit-learn` `Streamlit` |
+| [**♟️ Chess Master**](https://github.com/Aqibahmed12/Chess-Master) | Chess AI with **Minimax + Alpha-Beta pruning** — plays at human level | `Python` `Tkinter` `pygame` |
+| [**🌾 Crop Yield AI**](https://github.com/Aqibahmed12/AI-driven-crop-yield-prediction) | AI-driven agricultural **yield forecasting** model | `Python` `ML` `Pandas` |
+| [**🎬 Movie Recommender**](https://github.com/Aqibahmed12/Movie-Recommendation-System) | Content-based **recommendation engine** using cosine similarity | `Python` `NLP` |
+| [**📧 Spam Classifier**](https://github.com/Aqibahmed12/Email-Spam-Classifier) | NLP-powered **email spam detection** | `Python` `NLTK` `ML` |
+| [**👥 Customer Segmentation**](https://github.com/Aqibahmed12/Customer_Segmentation) | K-Means **clustering** for customer behavior analysis | `Python` `Scikit-learn` |
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aqibahmed12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=12" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aqibahmed12&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=ff6b35&currStreakLabel=00D9FF&border_radius=12" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqibahmed12&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_radius=12&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Aqibahmed12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_radius=12&layout=compact" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aqibahmed12&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aqibahmed12&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF&line=00D9FF&point=ffffff&bg_color=0D1117" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aqibahmed12/Aqibahmed12/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aqibahmed12/Aqibahmed12/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Aqibahmed12/Aqibahmed12/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 "The goal of AI is not to replace human intelligence — but to amplify it."
 
 <br/>
 
-| Project | Description | Tech |
-|---|---|---|
-| [AutoML for Small Businesses](https://github.com/Aqibahmed12/AutoML-for-small-businesses) | No-code AutoML pipeline for SMEs | Python, Scikit-learn |
-| [ThesisMate](https://github.com/Aqibahmed12/ThesisMate) | AI-powered thesis writing assistant | Python, LLMs |
-| [House Price Prediction](https://github.com/Aqibahmed12/House-Price-Prediction) | Regression model for real-estate forecasting | Python, Scikit-learn |
-| [Customer Segmentation](https://github.com/Aqibahmed12/Customer_Segmentation) | Clustering-based customer persona analysis | Python, K-Means |
-| [Movie Recommendation System](https://github.com/Aqibahmed12/Movie-Recommendation-System) | Collaborative filtering recommendation engine | Python, Pandas |
-| [Email Spam Classifier](https://github.com/Aqibahmed12/Email-Spam-Classifier) | NLP-based spam detection model | Python, NLP |
-| [Digital Image Processing](https://github.com/Aqibahmed12/Digital-Image-Processing) | Image filtering, segmentation and transformation | Python, OpenCV |
-| [Website Builder AI](https://github.com/Aqibahmed12/Website-Builder-Ai) | GenAI website generator with live preview | Python, GenAI |
-| [Crop Yield Prediction](https://github.com/Aqibahmed12/AI-driven-crop-yield-prediction) | ML models for smart agriculture | Python, Scikit-learn |
-
-</details>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black)
-
-**GenAI and LLMs**
-
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&amp;logo=google&amp;logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white)
-
-**Data and Analytics**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black)
-
-**Deployment and MLOps**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aqibahmed12&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0f62fe&amp;icon_color=6929c4&amp;text_color=c9d1d9" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqibahmed12&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0f62fe&amp;text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aqibahmed12&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=0f62fe&amp;fire=6929c4&amp;currStreakLabel=0f62fe)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| **Generative AI Application Developer** - Top Performer | UETIANS / HEC / PakAngels / iCodeGuru | 2025 |
-| **AI for All: Basics to GenAI Practice** | NVIDIA Academy | 2025 |
-| **Google Data Analytics Professional Certificate** | Google / Coursera | Jun 2025 |
-| **Python for Data Science and ML Bootcamp** | Udemy | Mar 2025 |
-
----
-
-## Experience
-
-**Machine Learning Intern** at Elevvo Pathways *(Jul - Sep 2025)*
-- Music genre classification — CNN + Mel-spectrograms — **89%+ accuracy** across 10,000+ samples
-- Traffic sign detection — MobileNetV2 transfer learning — **94% accuracy** across 43 classes
-- Delivered both production-ready models in an 8-week agile sprint
-
-**Undergraduate Researcher** at Aror University *(2026 - Present)*
-- ML-based crop yield forecasting using regression and ensemble methods on real agricultural datasets
-
----
-
-## Let's Connect
-
-<div align="center">
-
-I'm open to **internships**, **research collaborations**, and **AI/ML projects**. Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/aqib-ahmed-6505042a8)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:ahmedaqib152@gmail.com)
-[![NexaBuild](https://img.shields.io/badge/Try%20NexaBuild-10B981?style=for-the-badge)](https://nexabuild.streamlit.app/)
+**⭐ If you find my projects useful, please give them a star! It motivates me to build more. ⭐**
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f62fe,50:6929c4,100:0f62fe&amp;height=100&amp;section=footer" />
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
