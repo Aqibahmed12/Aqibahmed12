@@ -126,15 +126,15 @@ class AqibAhmed:
 ## GitHub Statistics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aqibahmed12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=12" />
+<!--
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aqibahmed12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=12" /> -->
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aqibahmed12&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=ff6b35&currStreakLabel=00D9FF&border_radius=12" />
 
-<br/><br/>
-
+<!-- <br/><br/> -->
+<!--
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqibahmed12&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_radius=12&langs_count=8" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Aqibahmed12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_radius=12&layout=compact" />
-
+-->
 </div>
 
 <img src="asset/line.gif" width="100%" height="100">
@@ -173,14 +173,14 @@ class AqibAhmed:
 <img src="asset/line.gif" width="100%" height="100">
 <div align="center">
 
-## GitHub Trophies
+<!--## GitHub Trophies
 
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aqibahmed12&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true" />
 </div>
 
 <img src="asset/line.gif" width="100%" height="100">
-<div align="center">
+<div align="center"> -->
 
 
 ## Contribution Activity
@@ -192,18 +192,16 @@ class AqibAhmed:
 <img src="asset/line.gif" width="100%" height="100">
 <div align="center">
 
-
-## Contribution Snake
-
-<div align="center">
+<!-- ## Contribution Snake -->
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aqibahmed12/Aqibahmed12/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aqibahmed12/Aqibahmed12/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Aqibahmed12/Aqibahmed12/output/github-snake.svg" />
   </picture>
-</div>
+</div> -->
 
-<img src="asset/line.gif" width="100%" height="100">
+<!-- <img src="asset/line.gif" width="100%" height="100"> -->
 
 ## Random Dev Quote
 
