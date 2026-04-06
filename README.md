@@ -145,7 +145,7 @@ class AqibAhmed:
 <details open> 
   <summary><h2>★ Certificates & Acheivements</h2></summary>
     <a href="assets/google-ai-essentials.png">
- <img width="200" src="assets/google-ai-essentials.png">
+ <img width="200" src="asset/HEC-GenAi.png">
 </a><br>
 <a href="assets/internship.png">
  <img width="150" src="assets/internship.png">
