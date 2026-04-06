@@ -158,10 +158,10 @@ class AqibAhmed:
 </a>
 <a href="asset/Certificate Of Completion Artificial Intelligence Case Studies in Different Business Industries-1.png">
  <img width="150" src="asset/Certificate Of Completion Artificial Intelligence Case Studies in Different Business Industries-1.png">
-</a>
-<a href="asset/OpenCV Bootcamp Certificate.PNG">
+</a><br>
+  <a href="asset/OpenCV Bootcamp Certificate.PNG">
  <img width="150" src="asset/OpenCV Bootcamp Certificate.PNG">
-</a><br>  
+</a>
 <a href="asset/GenAI Powered Data Analytics_completion_certificate-1.png">
  <img width="150" src="asset/GenAI Powered Data Analytics_completion_certificate-1.png">
 </a>
