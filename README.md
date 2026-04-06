@@ -147,11 +147,11 @@ class AqibAhmed:
     <a href="asset/HEC-GenAi.jpg">
  <img width="200" src="asset/HEC-GenAi.jpg">
 </a><br>
-<a href="assets/internship.png">
- <img width="150" src="assets/internship.png">
+<a href="asset/Google Data Analytics Certificate-1.png">
+ <img width="150" src="asset/Google Data Analytics Certificate-1.png">
 </a>
-<a href="assets/githubworkshop.jpg">
- <img width="150" src="assets/githubworkshop.jpg">
+<a href="asset/Planerary Defender.png">
+ <img width="150" src="asset/Planerary Defender.png">
 </a>
 <a href="assets/Linkedinworkshop.png">
  <img width="150" src="assets/Linkedinworkshop.png">
@@ -168,8 +168,8 @@ class AqibAhmed:
 <a href="assets/mlsaML.jpg">
  <img width="150" src="assets/mlsaML.jpg">
 </a>
-<a href="assets/sibafest.jpg">
- <img width="150" src="assets/sibafest.jpg">
+<a href="asset/Data Science Job Simulation_completion_certificate-1.png">
+ <img width="150" src="asset/Data Science Job Simulation_completion_certificate-1.png">
 </a>   
 </details> 
 <img src="assets/line.gif" width="100%" height="100">
