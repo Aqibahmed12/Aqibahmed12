@@ -144,10 +144,13 @@ class AqibAhmed:
 <hr>
 <details open> 
   <summary><h2>★ Certificates & Acheivements</h2></summary>
-    <a href="asset/HEC-GenAi.jpg">
- <img width="200" src="asset/HEC-GenAi.jpg">
+    <a href="asset/Essentials badge Leadership.png">
+ <img width="200" src="asset/Essentials badge Leadership.png">
 </a><br>
-<a href="asset/Google Data Analytics Certificate-1.png">
+  <a href="asset/HEC-GenAi.jpg">
+  <img width="150" src="asset/HEC-GenAi.jpg">
+</a>
+ <a href="asset/Google Data Analytics Certificate-1.png">
  <img width="150" src="asset/Google Data Analytics Certificate-1.png">
 </a>
 <a href="asset/Planerary Defender.png">
@@ -165,9 +168,6 @@ class AqibAhmed:
 <a href="asset/Neural Networks and Deep Learning-1.png">
  <img width="150" src="asset/Neural Networks and Deep Learning-1.png">
 </a>
-<!-- <a href="asset/ML.jpg">
- <img width="150" src="asset/ML.jpg">
-</a> -->
 <a href="asset/Data Science Job Simulation_completion_certificate-1.png">
  <img width="150" src="asset/Data Science Job Simulation_completion_certificate-1.png">
 </a>   
