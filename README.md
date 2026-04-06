@@ -19,20 +19,18 @@
 
 </div>
 
----
+<img src="asset/line.gif" width="100%" height="100">
 
-<img align="right" width="340" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<!-- <img align="right" width="340" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" /> -->
 
-## 👨‍💻 About Me
+## About Me
 
 ```python
 class AqibAhmed:
     name        = "Aqib Ahmed"
     location    = "Sindh, Pakistan 🇵🇰"
-    university  = "Aror University of Art, Architecture,"
-                  "Design & Heritage"
-    focus       = ["AI / ML", "Computer Vision",
-                   "NLP", "Generative AI"]
+    university  = "Aror University of Art, Architecture, Design & Heritage"
+    focus       = ["AI / ML", "Computer Vision", "NLP", "Generative AI"]
     building    = "AI tools that solve real problems"
     learning    = ["Deep Learning", "LLMs", "MLOps"]
     fun_fact    = "My Chess AI beats me every time 😅"
@@ -41,18 +39,18 @@ class AqibAhmed:
 
 <br/>
 
-- 🔭 Currently building **AI-powered web apps & CV systems**
-- 🌱 Exploring **Large Language Models & Generative AI**
-- 💼 Open to **internship opportunities & collaborations**
-- 🏆 13+ Projects across AI, CV, NLP & Game Dev
-- 📍 Based in **Pakistan** • Student at **Aror University**
-- ⚡ Fun fact: I built an AI that generates full websites from a single sentence!
+- Currently building **AI-powered web apps & CV systems**
+- Exploring **Large Language Models & Generative AI**
+- Open to **internship opportunities & collaborations**
+- 13+ Projects across AI, CV, NLP & Game Dev
+- Based in **Pakistan** • Student at **Aror University**
+- Fun fact: I built an AI that generates full websites from a single sentence!
 
 <br clear="right"/>
 
----
+<img src="asset/line.gif" width="100%" height="100">
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -64,20 +62,20 @@ class AqibAhmed:
 
 </div>
 
----
+<img src="asset/line.gif" width="100%" height="100">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -87,12 +85,12 @@ class AqibAhmed:
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![face_recognition](https://img.shields.io/badge/face__recognition-dlib-00D9FF?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Web & Frameworks
+### Web & Frameworks
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6FEB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Databases & DevTools
+### Databases & DevTools
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -102,30 +100,30 @@ class AqibAhmed:
 
 </div>
 
----
+<img src="asset/line.gif" width="100%" height="100">
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | 🔧 Tech Stack |
+| Project | Description | Tech Stack |
 |:---:|:---|:---:|
-| [**👁️ FaceAttend Pro**](https://github.com/Aqibahmed12/Face-Detection-Attendance-System) | Face recognition attendance with **anti-spoofing**, live dashboard & Excel export | `dlib` `OpenCV` `CustomTkinter` `SQLite` |
-| [**🌐 NexaBuild**](https://github.com/Aqibahmed12/NexaBuild) | AI generates a **complete website** from a single text prompt with live preview | `Python` `Generative AI` `HTML/CSS/JS` |
-| [**🤖 Website-Builder-AI**](https://github.com/Aqibahmed12/Website-Builder-Ai) | Generative AI website builder with **downloadable source code** | `Python` `AI` `Flask` |
-| [**📝 ThesisMate**](https://github.com/Aqibahmed12/ThesisMate) | AI-powered **thesis writing & research assistant** | `Python` `NLP` `Generative AI` |
-| [**⚙️ AutoML for SMEs**](https://github.com/Aqibahmed12/AutoML-for-small-businesses) | **No-code AutoML** pipeline for small businesses | `Scikit-learn` `Streamlit` |
-| [**♟️ Chess Master**](https://github.com/Aqibahmed12/Chess-Master) | Chess AI with **Minimax + Alpha-Beta pruning** — plays at human level | `Python` `Tkinter` `pygame` |
-| [**🌾 Crop Yield AI**](https://github.com/Aqibahmed12/AI-driven-crop-yield-prediction) | AI-driven agricultural **yield forecasting** model | `Python` `ML` `Pandas` |
-| [**🎬 Movie Recommender**](https://github.com/Aqibahmed12/Movie-Recommendation-System) | Content-based **recommendation engine** using cosine similarity | `Python` `NLP` |
-| [**📧 Spam Classifier**](https://github.com/Aqibahmed12/Email-Spam-Classifier) | NLP-powered **email spam detection** | `Python` `NLTK` `ML` |
-| [**👥 Customer Segmentation**](https://github.com/Aqibahmed12/Customer_Segmentation) | K-Means **clustering** for customer behavior analysis | `Python` `Scikit-learn` |
+| [** FaceAttend Pro**](https://github.com/Aqibahmed12/Face-Detection-Attendance-System) | Face recognition attendance with **anti-spoofing**, live dashboard & Excel export | `dlib` `OpenCV` `CustomTkinter` `SQLite` |
+| [** NexaBuild**](https://github.com/Aqibahmed12/NexaBuild) | AI generates a **complete website** from a single text prompt with live preview | `Python` `Generative AI` `HTML/CSS/JS` |
+| [** Website-Builder-AI**](https://github.com/Aqibahmed12/Website-Builder-Ai) | Generative AI website builder with **downloadable source code** | `Python` `AI` `Flask` |
+| [** ThesisMate**](https://github.com/Aqibahmed12/ThesisMate) | AI-powered **thesis writing & research assistant** | `Python` `NLP` `Generative AI` |
+| [** AutoML for SMEs**](https://github.com/Aqibahmed12/AutoML-for-small-businesses) | **No-code AutoML** pipeline for small businesses | `Scikit-learn` `Streamlit` |
+| [** Chess Master**](https://github.com/Aqibahmed12/Chess-Master) | Chess AI with **Minimax + Alpha-Beta pruning** — plays at human level | `Python` `Tkinter` `pygame` |
+| [** Crop Yield AI**](https://github.com/Aqibahmed12/AI-driven-crop-yield-prediction) | AI-driven agricultural **yield forecasting** model | `Python` `ML` `Pandas` |
+| [** Movie Recommender**](https://github.com/Aqibahmed12/Movie-Recommendation-System) | Content-based **recommendation engine** using cosine similarity | `Python` `NLP` |
+| [** Spam Classifier**](https://github.com/Aqibahmed12/Email-Spam-Classifier) | NLP-powered **email spam detection** | `Python` `NLTK` `ML` |
+| [** Customer Segmentation**](https://github.com/Aqibahmed12/Customer_Segmentation) | K-Means **clustering** for customer behavior analysis | `Python` `Scikit-learn` |
 
 </div>
 
----
+<img src="asset/line.gif" width="100%" height="100">
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -139,7 +137,7 @@ class AqibAhmed:
 
 </div>
 
----
+<img src="asset/line.gif" width="100%" height="100">
 
 <hr>
 <details open> 
@@ -175,7 +173,7 @@ class AqibAhmed:
 <img src="asset/line.gif" width="100%" height="100">
 <div align="center">
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aqibahmed12&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true" />
@@ -185,7 +183,7 @@ class AqibAhmed:
 <div align="center">
 
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aqibahmed12&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF&line=00D9FF&point=ffffff&bg_color=0D1117" />
@@ -195,7 +193,7 @@ class AqibAhmed:
 <div align="center">
 
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -205,19 +203,19 @@ class AqibAhmed:
   </picture>
 </div>
 
----
+<img src="asset/line.gif" width="100%" height="100">
 
-## 💡 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </div>
 
----
+<img src="asset/line.gif" width="100%" height="100">
 
 <div align="center">
 
-### 🎯 "The goal of AI is not to replace human intelligence — but to amplify it."
+### "The goal of AI is not to replace human intelligence — but to amplify it."
 
 <br/>
 
