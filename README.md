@@ -156,23 +156,23 @@ class AqibAhmed:
 <a href="asset/Certificate Of Completion Artificial Intelligence Case Studies in Different Business Industries-1.png">
  <img width="150" src="asset/Certificate Of Completion Artificial Intelligence Case Studies in Different Business Industries-1.png">
 </a>
-<a href="assets/pandasworkshop.png">
- <img width="150" src="assets/pandasworkshop.png">
+<a href="asset/OpenCV Bootcamp Certificate.PNG">
+ <img width="150" src="asset/OpenCV Bootcamp Certificate.PNG">
 </a><br>  
-<a href="assets/mlsapython.jpg">
- <img width="150" src="assets/mlsapython.jpg">
+<a href="asset/GenAI Powered Data Analytics_completion_certificate-1.png">
+ <img width="150" src="asset/GenAI Powered Data Analytics_completion_certificate-1.png">
 </a>
-<a href="assets/mlsaAI.jpg">
- <img width="150" src="assets/mlsaAI.jpg">
+<a href="asset/Neural Networks and Deep Learning-1.png">
+ <img width="150" src="asset/Neural Networks and Deep Learning-1.png">
 </a>
-<a href="assets/mlsaML.jpg">
- <img width="150" src="assets/mlsaML.jpg">
-</a>
+<!-- <a href="asset/ML.jpg">
+ <img width="150" src="asset/ML.jpg">
+</a> -->
 <a href="asset/Data Science Job Simulation_completion_certificate-1.png">
  <img width="150" src="asset/Data Science Job Simulation_completion_certificate-1.png">
 </a>   
 </details> 
-<img src="assets/line.gif" width="100%" height="100">
+<img src="asset/line.gif" width="100%" height="100">
 <div align="center">
 
 ---
