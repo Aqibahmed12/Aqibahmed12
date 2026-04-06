@@ -175,15 +175,15 @@ class AqibAhmed:
 <img src="asset/line.gif" width="100%" height="100">
 <div align="center">
 
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aqibahmed12&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true" />
 </div>
 
----
+<img src="asset/line.gif" width="100%" height="100">
+<div align="center">
+
 
 ## 📈 Contribution Activity
 
@@ -191,7 +191,9 @@ class AqibAhmed:
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aqibahmed12&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF&line=00D9FF&point=ffffff&bg_color=0D1117" />
 </div>
 
----
+<img src="asset/line.gif" width="100%" height="100">
+<div align="center">
+
 
 ## 🐍 Contribution Snake
 
