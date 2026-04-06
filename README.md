@@ -108,16 +108,16 @@ class AqibAhmed:
 
 | Project | Description | Tech Stack |
 |:---:|:---|:---:|
-| [** FaceAttend Pro**](https://github.com/Aqibahmed12/Face-Detection-Attendance-System) | Face recognition attendance with **anti-spoofing**, live dashboard & Excel export | `dlib` `OpenCV` `CustomTkinter` `SQLite` |
-| [** NexaBuild**](https://github.com/Aqibahmed12/NexaBuild) | AI generates a **complete website** from a single text prompt with live preview | `Python` `Generative AI` `HTML/CSS/JS` |
-| [** Website-Builder-AI**](https://github.com/Aqibahmed12/Website-Builder-Ai) | Generative AI website builder with **downloadable source code** | `Python` `AI` `Flask` |
-| [** ThesisMate**](https://github.com/Aqibahmed12/ThesisMate) | AI-powered **thesis writing & research assistant** | `Python` `NLP` `Generative AI` |
-| [** AutoML for SMEs**](https://github.com/Aqibahmed12/AutoML-for-small-businesses) | **No-code AutoML** pipeline for small businesses | `Scikit-learn` `Streamlit` |
-| [** Chess Master**](https://github.com/Aqibahmed12/Chess-Master) | Chess AI with **Minimax + Alpha-Beta pruning** — plays at human level | `Python` `Tkinter` `pygame` |
-| [** Crop Yield AI**](https://github.com/Aqibahmed12/AI-driven-crop-yield-prediction) | AI-driven agricultural **yield forecasting** model | `Python` `ML` `Pandas` |
-| [** Movie Recommender**](https://github.com/Aqibahmed12/Movie-Recommendation-System) | Content-based **recommendation engine** using cosine similarity | `Python` `NLP` |
-| [** Spam Classifier**](https://github.com/Aqibahmed12/Email-Spam-Classifier) | NLP-powered **email spam detection** | `Python` `NLTK` `ML` |
-| [** Customer Segmentation**](https://github.com/Aqibahmed12/Customer_Segmentation) | K-Means **clustering** for customer behavior analysis | `Python` `Scikit-learn` |
+| [**FaceAttend Pro**](https://github.com/Aqibahmed12/Face-Detection-Attendance-System) | Face recognition attendance with **anti-spoofing**, live dashboard & Excel export | `dlib` `OpenCV` `CustomTkinter` `SQLite` |
+| [**NexaBuild**](https://github.com/Aqibahmed12/NexaBuild) | AI generates a **complete website** from a single text prompt with live preview | `Python` `Generative AI` `HTML/CSS/JS` |
+| [**Website-Builder-AI**](https://github.com/Aqibahmed12/Website-Builder-Ai) | Generative AI website builder with **downloadable source code** | `Python` `AI` `Flask` |
+| [**ThesisMate**](https://github.com/Aqibahmed12/ThesisMate) | AI-powered **thesis writing & research assistant** | `Python` `NLP` `Generative AI` |
+| [**AutoML for SMEs**](https://github.com/Aqibahmed12/AutoML-for-small-businesses) | **No-code AutoML** pipeline for small businesses | `Scikit-learn` `Streamlit` |
+| [**Chess Master**](https://github.com/Aqibahmed12/Chess-Master) | Chess AI with **Minimax + Alpha-Beta pruning** — plays at human level | `Python` `Tkinter` `pygame` |
+| [**Crop Yield AI**](https://github.com/Aqibahmed12/AI-driven-crop-yield-prediction) | AI-driven agricultural **yield forecasting** model | `Python` `ML` `Pandas` |
+| [**Movie Recommender**](https://github.com/Aqibahmed12/Movie-Recommendation-System) | Content-based **recommendation engine** using cosine similarity | `Python` `NLP` |
+| [**Spam Classifier**](https://github.com/Aqibahmed12/Email-Spam-Classifier) | NLP-powered **email spam detection** | `Python` `NLTK` `ML` |
+| [**Customer Segmentation**](https://github.com/Aqibahmed12/Customer_Segmentation) | K-Means **clustering** for customer behavior analysis | `Python` `Scikit-learn` |
 
 </div>
 
