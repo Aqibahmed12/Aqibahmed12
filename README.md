@@ -4,18 +4,18 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aqib%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=55&descSize=18"/>
 
 <!-- Animated typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=🤖+AI+%26+Machine+Learning+Developer;👁️+Computer+Vision+Engineer;🌐+AI-Powered+Web+App+Builder;📊+Data+Science+%26+NLP+Enthusiast;♟️+Chess+AI+Creator+%7C+Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=AI+%26+Machine+Learning+Developer;Computer+Vision+Engineer;AI-Powered+Web+App+Builder;Data+Science+%26+NLP+Enthusiast;Chess+AI+Creator+%7C+Always+Learning" alt="Typing SVG" />
 
 <br/>
 
 <!-- Badges row -->
 <a href="https://github.com/Aqibahmed12">
-  <img src="https://komarev.com/ghpvc/?username=Aqibahmed12&label=👁️+Profile+Views&color=0891b2&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Aqibahmed12&label=Profile+Views&color=0891b2&style=flat-square" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Aqibahmed12?label=👥+Followers&style=flat-square&color=0891b2" />
+<img src="https://img.shields.io/github/followers/Aqibahmed12?label=Followers&style=flat-square&color=0891b2" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/Aqibahmed12?label=⭐+Total+Stars&style=flat-square&color=f59e0b&affiliations=OWNER" />
+<img src="https://img.shields.io/github/stars/Aqibahmed12?label=Total+Stars&style=flat-square&color=f59e0b&affiliations=OWNER" />
 
 </div>
 
