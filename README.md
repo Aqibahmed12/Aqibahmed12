@@ -153,8 +153,8 @@ class AqibAhmed:
 <a href="asset/Planerary Defender.png">
  <img width="150" src="asset/Planerary Defender.png">
 </a>
-<a href="assets/Linkedinworkshop.png">
- <img width="150" src="assets/Linkedinworkshop.png">
+<a href="asset/Certificate Of Completion Artificial Intelligence Case Studies in Different Business Industries-1.png">
+ <img width="150" src="asset/Certificate Of Completion Artificial Intelligence Case Studies in Different Business Industries-1.png">
 </a>
 <a href="assets/pandasworkshop.png">
  <img width="150" src="assets/pandasworkshop.png">
