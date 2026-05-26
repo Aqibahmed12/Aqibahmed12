@@ -163,8 +163,8 @@ class AqibAhmed:
 <a href="asset/GenAI Powered Data Analytics_completion_certificate-1.png">
  <img width="150" src="asset/GenAI Powered Data Analytics_completion_certificate-1.png">
 </a>
-<a href="asset/Neural Networks and Deep Learning-1.png">
- <img width="150" src="asset/Neural Networks and Deep Learning-1.png">
+<a href="asset/Google AI Professional Certificate.jpg">
+ <img width="150" src="asset/Google AI Professional Certificate.jpg">
 </a>
 <a href="asset/Data Science Job Simulation_completion_certificate-1.png">
  <img width="150" src="asset/Data Science Job Simulation_completion_certificate-1.png">
